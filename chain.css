@@ -1,0 +1,70 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+  font-size: 15px;
+  margin: 0;
+  text-align: center;
+}
+header {
+  margin: 45px auto;
+  width: 50%;
+}
+h1 {
+  font-weight: 200;
+  margin-bottom: 0px;
+}
+h2 {
+  font-weight: 700;
+  margin-top: 0px
+}
+p {
+  font-size: 15px;
+  font-weight: 100;
+    filter: contrast(30%);
+}
+.size{
+  height: 200px
+}
+.size2{
+  width:20%;
+  padding: 0 20px
+}
+.box{
+  background-color: white;
+  display: inline-block;
+  margin: 15px;
+  position: relative;
+  text-align: left;
+    border-radius:8px;
+  box-shadow: 2px 14px 14px 0px;
+  {
+      color: hsl(229, 6%, 66%);
+  }
+}
+.img img{
+  float: right;
+}
+.supervisor {
+  border-top: solid cyan;
+}
+
+.place {
+top: 130px;
+}
+
+.team{
+  border-top: solid red;
+}
+
+.karma {
+  border-top: solid orange;
+}
+
+.calculator {
+  border-top: solid blue;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+ 
